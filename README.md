@@ -45,5 +45,5 @@ Aqui estão algumas das tecnologias com as quais já desenvolvi projetos:
 
 Sinta-se à vontade para se conectar comigo!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mariana-sônego-6b6aba346)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-s%C3%B4nego-6b6aba346/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonegomariana22@gmail.com)
