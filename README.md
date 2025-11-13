@@ -1,6 +1,6 @@
 # 👋 Olá! Bem-vindo(a) ao meu perfil!
 
-Eu sou Mariana A. Sônego, uma desenvolvedora em formação apaixonada por transformar ideias em código.
+Eu sou Mariana A. Sônego, uma desenvolvedora em formação.
 
 Minha jornada na tecnologia começou no **Ensino Médio Técnico em Informática para Internet** no **IFSP - Campus São Carlos**, onde tive meus primeiros contatos com desenvolvimento web, lógica e projetos em equipe.
 
