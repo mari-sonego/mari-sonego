@@ -4,7 +4,7 @@ Eu sou Mariana A. Sônego, uma desenvolvedora em formação.
 
 Minha jornada na tecnologia começou no **Ensino Médio Técnico em Informática para Internet** no **IFSP - Campus São Carlos**, onde tive meus primeiros contatos com desenvolvimento web, lógica e projetos em equipe.
 
-Atualmente, estou no 1º semestre de **Análise e Desenvolvimento de Sistemas (ADS)**, continuando minha trajetória na mesma instituição (IFSP) e aprofundando meus conhecimentos para me tornar uma profissional completa.
+Atualmente, estou no 1º semestre de **Análise e Desenvolvimento de Sistemas (ADS)**, continuando minha trajetória na mesma instituição (IFSP) e aprofundando meus conhecimentos.
 
 ---
 
@@ -30,8 +30,6 @@ Atualmente, estou no 1º semestre de **Análise e Desenvolvimento de Sistemas (A
 
 ## 🚀 Projetos em Destaque
 
-Aqui estão alguns dos projetos que já desenvolvi durante minha formação:
-
 - [Site sobre guitarras](https://github.com/mari-sonego/html-css-bootstrap)
 - [Trabalho Final em Python](https://github.com/mari-sonego/python-trabalho-final)
 - [Projeto Aeroporto - Java](https://github.com/mari-sonego/java-POO-final)
@@ -53,8 +51,6 @@ Aqui estão alguns dos projetos que já desenvolvi durante minha formação:
 ---
 
 ### 📫 Como me encontrar:
-
-Sinta-se à vontade para se conectar comigo!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-s%C3%B4nego-6b6aba346/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonegomariana22@gmail.com)
