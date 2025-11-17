@@ -17,8 +17,6 @@ Atualmente, estou no 1º semestre de **Análise e Desenvolvimento de Sistemas (A
 
 ### 🛠️ Tecnologias e Ferramentas
 
-Aqui estão algumas das tecnologias com as quais já desenvolvi projetos:
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -27,6 +25,19 @@ Aqui estão algumas das tecnologias com as quais já desenvolvi projetos:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Projetos em Destaque
+
+Aqui estão alguns dos projetos que já desenvolvi durante minha formação:
+
+- [Site sobre guitarras](https://github.com/mari-sonego/html-css-bootstrap)
+- [Trabalho Final em Python](https://github.com/mari-sonego/python-trabalho-final)
+- [Projeto Aeroporto - Java](https://github.com/mari-sonego/java-POO-final)
+- [Projeto Anagrama - Java Spring Boot](https://github.com/mari-sonego/java-spring-boot)
+- [Noticiário - JavaScript](https://github.com/mari-sonego/javascript-noticiario)
+- [Consultório - PHP](https://github.com/mari-sonego/php-consultorio)
 
 ---
 
