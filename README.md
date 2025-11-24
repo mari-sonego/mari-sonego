@@ -31,14 +31,19 @@ Atualmente, estou no 1º semestre de **Análise e Desenvolvimento de Sistemas (A
 ## 🚀 Projetos
 
 ### [HTML & CSS](https://github.com/mari-sonego/html-css)
+> Desenvolvimento web e estruturação de páginas em HTML, CSS E Bootstrap.
 
 ### [Python](https://github.com/mari-sonego/python-programming)
+> Lógica de programação em Python.
 
 ### [Java](https://github.com/mari-sonego/java-programming)
+> Programação Orientada a Objetos (POO) e APIs com Spring Boot.
 
 ### [JavaScript](https://github.com/mari-sonego/javascript-programming)
+> Interatividade web, manipulação do DOM e lógica front-end.
 
 ### [PHP](https://github.com/mari-sonego/php-programming)
+> Desenvolvimento web back-end e conexão com banco de dados.
 
 ---
 
