@@ -6,14 +6,6 @@ Minha jornada na tecnologia começou no **Ensino Médio Técnico em Informática
 
 Atualmente, estou no 1º semestre de **Análise e Desenvolvimento de Sistemas (ADS)**, continuando minha trajetória na mesma instituição (IFSP) e aprofundando meus conhecimentos.
 
----
-
-### 🚀 Minha Jornada Acadêmica
-
-* 🎓 **Graduação (Cursando):** Análise e Desenvolvimento de Sitemas (ADS) | *IFSP São Carlos (2025 - Presente)*
-* 📚 **Formação:** Ensino Médio Técnico em Informática para Internet | *IFSP São Carlos (Concluído)*
-
----
 
 ### 🛠️ Tecnologias e Ferramentas
 
