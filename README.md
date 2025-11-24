@@ -28,14 +28,17 @@ Atualmente, estou no 1º semestre de **Análise e Desenvolvimento de Sistemas (A
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos
 
-- [Site sobre guitarras](https://github.com/mari-sonego/html-css-bootstrap)
-- [Trabalho Final em Python](https://github.com/mari-sonego/python-trabalho-final)
-- [Projeto Aeroporto - Java](https://github.com/mari-sonego/java-POO-final)
-- [Projeto Anagrama - Java Spring Boot](https://github.com/mari-sonego/java-spring-boot)
-- [Noticiário - JavaScript](https://github.com/mari-sonego/javascript-noticiario)
-- [Consultório - PHP](https://github.com/mari-sonego/php-consultorio)
+### [HTML & CSS](https://github.com/mari-sonego/html-css)
+
+### [Python](https://github.com/mari-sonego/python-programming)
+
+### [Java](https://github.com/mari-sonego/java-programming)
+
+### [JavaScript](https://github.com/mari-sonego/javascript-programming)
+
+### [PHP](https://github.com/mari-sonego/php-programming)
 
 ---
 
